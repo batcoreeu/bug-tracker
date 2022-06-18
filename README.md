@@ -9,7 +9,7 @@ This bug tracker is holding all bugs which are connected with domains / services
 
 ```
 DOMAINS:
-> https://beta.batcore.eu
+> https://batcore.eu
 
 SERVICES:
 > Main website
